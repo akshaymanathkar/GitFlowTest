@@ -1,9 +1,14 @@
 # Pull Request Checklist
 
-## Chnages proposed in this Pull Request
-######
-######
-######
+## Changes proposed in this Pull Request
+-
+-
+-
+
+### This pull request contains?
+- [ ] Feature
+- [ ] Bug Fix
+- [ ] Refactoring
 
 ### Did you write tests?
 - [ ] Yes
@@ -25,7 +30,22 @@
 - [ ] No
 - [ ] N/A
 
-### Does the feature have a nexp?
+### Does the feature have an experiment?
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+### Did you do a code review?
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+### Did you think of backword compatibility?
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+### Did you add any analytics events?
 - [ ] Yes
 - [ ] No
 - [ ] N/A
